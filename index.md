@@ -42,3 +42,4 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 - [My Scholar profile](https://scholar.google.com/citations?user=gprevide))
 - [ORCID](https://orcid.org/0000-0003-0502-2789)
 - [ResearchGate](https://researchgate.net/profile/Guido_Previde_Massara)
+- [Open Science Foundation](https://osf.io/96stz/)
