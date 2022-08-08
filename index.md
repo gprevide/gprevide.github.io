@@ -38,5 +38,5 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 ### Other profiles
 
-- My Linkedin profile
-- My Scholar profile
+- [My Linkedin profile](https://https://www.linkedin.com/in/gprevide/)
+- [My Scholar profile] (https://https://scholar.google.com/citations?user=Xgp1IA8AAAAJ&hl=en)
