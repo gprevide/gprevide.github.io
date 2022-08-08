@@ -9,3 +9,5 @@ Hello! Here you can find some info about me and the things I like.
 - [ORCID](https://orcid.org/0000-0003-0502-2789)
 - [ResearchGate](https://researchgate.net/profile/Guido_Previde_Massara)
 - [Open Science Foundation](https://osf.io/96stz/)
+
+[A random file](random_file.md)
