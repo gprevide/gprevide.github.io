@@ -12,4 +12,4 @@ Hello! Here you can find some info about me and the things I like.
 
 ### Stuff
 
-- [Lorem_etc](notes/lorem_etc.md)
+- [Lorem_etc](/notes/lorem_etc.md)
