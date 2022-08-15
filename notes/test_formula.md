@@ -1,5 +1,5 @@
 Test formula
 
 $$
-f(x) = cfrac{ax+b}{cx+d}
+f(x) = frac{ax+b}{cx+d}
 $$
