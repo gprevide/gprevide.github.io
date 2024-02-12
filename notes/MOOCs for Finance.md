@@ -16,4 +16,4 @@
 14. Advanced Valuation and Strategy from Erasmus University
 15. Principles of Sustainable Finance from Erasmus University
 16. Global Systemic Risk from Princeton
-17. [United Nations E-learning: Intrdocution to Sustainable Finance](https://unccelearn.org/course/view.php?id=139&page=overview)
+17. [United Nations E-learning: Introduction to Sustainable Finance](https://unccelearn.org/course/view.php?id=139&page=overview)
