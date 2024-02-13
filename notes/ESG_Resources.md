@@ -12,4 +12,6 @@
     1. [Introduction to Sustainability, Sustainable Finance and the role of Law](https://learn.eduopen.org/eduopenv2/course_details.php?courseid=451)
     2. [Sustainability in the EU Company and Financial Law](https://learn.eduopen.org/eduopenv2/course_details.php?courseid=491)
     3. [Managing Sustainability: Theory and Practice](https://learn.eduopen.org/eduopenv2/course_details.php?courseid=502)
-6. [ZHAWx: Sustainable Corporate Financing: Foundations](https://www.edx.org/learn/sustainability/zhaw-zurich-university-of-applied-sciences-sustainable-corporate-financing-foundations)
+6. ZHAWx's Sustainable Corporate Financing Professional Certificate
+    1. [ZHAWx: Sustainable Corporate Financing: Foundations](https://www.edx.org/learn/sustainability/zhaw-zurich-university-of-applied-sciences-sustainable-corporate-financing-foundations)
+    2. [ZHAWx: Sustainable Corporate Financing: Application](https://www.edx.org/learn/sustainability/zhaw-zurich-university-of-applied-sciences-sustainable-corporate-financing-application)
