@@ -20,3 +20,6 @@
 
 # Documents
 1. [Building a Sustainable Future: ESG Business Handbook](https://www.undp.org/sites/g/files/zskgke326/files/2023-08/building_a_sustainable_future_esg_business_handbook.pdf)
+
+# Books
+1. [Thierry Roncalli Handbook of Sustainable Finance](http://www.thierry-roncalli.com/SustainableFinanceBook.html)
