@@ -1,1 +1,4 @@
-
+- [Validation of Credit Models in ECB Templates](https://uk.mathworks.com/help///risk/validation-of-credit-models-in-ecb-templates.html)
+- [Instructions for reporting the validation results of internal models - IRB Pillar I model](https://www.bankingsupervision.europa.eu/banking/tasks/internal_models/shared/pdf/instructions_validation_reporting_credit_risk.en.pdf)
+- [Ongoing Model Monitoring](https://www.bankingsupervision.europa.eu/banking/tasks/internal_models/omm/html/index.en.html)
+- [EBA Model validation](https://www.eba.europa.eu/regulation-and-policy/model-validation)
