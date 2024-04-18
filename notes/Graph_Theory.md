@@ -18,3 +18,6 @@
 
 ## Spectral Graph Theory
  - [Algorithmic Spectral Graph Theory Bootcamp - Simons institute](https://simons.berkeley.edu/workshops/algorithmic-spectral-graph-theory-boot-camp/videos#simons-tabs)
+
+## Planar Graphs
+ - [Algorithms for Planar Graphs and Beyond](http://courses.csail.mit.edu/6.889/fall11/)
