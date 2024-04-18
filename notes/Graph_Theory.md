@@ -16,3 +16,5 @@
  - [The Emerging Field of Signal Processing on Graphs](https://arxiv.org/pdf/1211.0053.pdf)
  - [Wavelets on graphs via spectral graph theory](https://www.sciencedirect.com/science/article/pii/S1063520310000552)
 
+## Spectral Graph Theory
+ - [Algorithmic Spectral Graph Theory Bootcamp - Simons institute](https://simons.berkeley.edu/workshops/algorithmic-spectral-graph-theory-boot-camp/videos#simons-tabs)
