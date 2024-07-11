@@ -11,7 +11,7 @@
   8. Book by Sussman and Wisdom on Structure and Interpretation of Classical mechanics
 
   ## Lectures
-  1. Susskind lectures on Classical Mechanics
+  1. Leonard Susskind's lectures on [Classical Mechanics](https://www.youtube.com/playlist?list=PL47F408D36D4CF129)
   2. Perimeter Institute lectures on Classical Mechanics
   3. Tobias Osborne's lectures on [Symplectic Geometry & Classical Mechanics](https://www.youtube.com/playlist?list=PLDfPUNusx1EoVnrQcCRishydtNBYU6A0c)
 
