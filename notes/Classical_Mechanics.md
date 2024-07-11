@@ -13,5 +13,6 @@
   ## Lectures
   1. Susskind lectures on Classical Mechanics
   2. Perimeter Institute lectures on Classical Mechanics
+  3. Tobias Osborne's lectures on (Symplectic Geometry & Classical Mechanics)[https://www.youtube.com/playlist?list=PLDfPUNusx1EoVnrQcCRishydtNBYU6A0c]
 
   ## Other
